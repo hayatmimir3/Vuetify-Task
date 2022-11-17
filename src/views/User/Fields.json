@@ -1,0 +1,17 @@
+[
+    {
+        "type": "BaseInput",
+        "label": "Name",
+        "value": ""
+    },
+    {
+        "type": "BaseInput",
+        "label": "UserName",
+        "value": ""
+    },
+    {
+        "type": "PassInput",
+        "label": "Password",
+        "value": ""
+    }
+]

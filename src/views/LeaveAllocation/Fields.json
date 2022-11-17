@@ -1,0 +1,20 @@
+[
+    {
+        "type": "BaseInput",
+        "label": "Employee ID",
+        "value": "",
+        "data": "employee_id"
+    },
+    {
+        "type": "BaseInput",
+        "label": "Leave type ID",
+        "value": "",
+        "data": "leave_type_id"
+    },
+    {
+        "type": "BaseInput",
+        "label": "Balance",
+        "value": "",
+        "data": "balance"
+    }
+]

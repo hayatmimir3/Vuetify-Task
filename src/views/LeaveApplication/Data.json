@@ -1,0 +1,71 @@
+{
+    "headers": [
+        {
+        "text": "ID",
+        "align": "start",
+        "sortable": false,
+        "value": "id"
+        },
+        { "text": "Employee ID", "value": "employee_id" },
+        { "text": "Leave Type Id", "value": "leave_type_id" },
+        { "text": "From Date", "value": "from_date" },
+        { "text": "To Date", "value": "to_date" },
+        { "text": "Days Count", "value": "days_count" },
+        { "text": "Balance", "value": "leave_balance" },
+        { "text": "Status", "value": "status" },
+        { "text": "Update", "value": "update", "sortable": false  }
+    ],
+    "data": [
+        {
+            "id": 1,
+            "employee_id":1,
+            "leave_type_id": 3,
+            "from_date": "2022-10-24",
+            "to_date": "2022-10-25",
+            "days_count": "1",
+            "leave_balance": "4",
+            "status": "valid"
+        },
+        {
+            "id": 2,
+            "employee_id":2,
+            "leave_type_id": 4,
+            "from_date": "2022-8-1",
+            "to_date": "2022-10-1",
+            "days_count": "60",
+            "leave_balance": "5",
+            "status": "expired"
+        },
+        {
+            "id": 3,
+            "employee_id":3,
+            "leave_type_id": 3,
+            "from_date": "2022-9-2",
+            "to_date": "2022-9-4",
+            "days_count": "2",
+            "leave_balance": "3",
+            "status": "expired"
+        },
+        {
+            "id": 4,
+            "employee_id":4,
+            "leave_type_id": 3,
+            "from_date": "2022-10-12",
+            "to_date": "2022-10-13",
+            "days_count": "1",
+            "leave_balance": "5",
+            "status": "expired"
+        },
+        {
+            "id": 5,
+            "employee_id":5,
+            "leave_type_id": 2,
+            "from_date": "2022-10-24",
+            "to_date": "2022-10-25",
+            "days_count": "1",
+            "leave_balance": "2",
+            "status": "valid"
+        }
+    ]
+}
+

@@ -1,0 +1,44 @@
+[
+    {
+        "type": "BaseInput",
+        "label": "Employee ID",
+        "value": "",
+        "data": "employee_id"
+    },
+    {
+        "type": "BaseInput",
+        "label": "Leave type ID",
+        "value": "",
+        "data": "leave_type_id"
+    },
+    {
+        "type": "DateInput",
+        "label": "From Date",
+        "value": null,
+        "data": "from_date"
+    },
+    {
+        "type": "DateInput",
+        "label": "To Data",
+        "value": null,
+        "data": "to_date"
+    },
+    {
+        "type": "BaseInput",
+        "label": "Days count",
+        "value": "",
+        "data": "days_count"
+    },
+    {
+        "type": "BaseInput",
+        "label": "Balance",
+        "value": "",
+        "data": "leave_balance"
+    },
+    {
+        "type": "BaseInput",
+        "label": "Status",
+        "value": "",
+        "data": "status"
+    }
+]

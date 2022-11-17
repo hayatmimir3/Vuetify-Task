@@ -1,0 +1,27 @@
+[
+    {
+        "type": "BaseInput",
+        "label": "Name",
+        "value": "",
+        "data": "name"
+    },
+    {
+        "type": "BaseInput",
+        "label": "Number",
+        "value": "",
+        "data": "number"
+    },
+    {
+        "type": "DateInput",
+        "label": "Date of Birth",
+        "value": null,
+        "data": "date_of_birth"
+    },
+    {
+        "type": "SelectInput",
+        "label": "Genders",
+        "select": ["Male", "Female"],
+        "value": "",
+        "data": "genders"
+    }
+]

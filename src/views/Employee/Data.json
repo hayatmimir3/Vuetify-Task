@@ -1,0 +1,99 @@
+{
+    "headers": [
+        {
+        "text": "ID num",
+        "align": "start",
+        "sortable": false,
+        "value": "id"
+        },
+        { "text": "Name", "value": "name" },
+        { "text": "Number", "value": "number" },
+        { "text": "Date of birth", "value": "date_of_birth" },
+        { "text": "Gender", "value": "genders" },
+        { "text": "Date of join", "value": "date_of_join" },
+        { "text": "Update", "value": "update", "sortable": false  }
+    ],
+    "data": [
+        {
+            "id": 1,
+            "name":"Haya Ibrahim",
+            "number": "059996",
+            "date_of_birth": "1999-10-12",
+            "genders": "Female",
+            "date_of_join": "Fri Oct 12 2022 23:52:35 GMT+0000 (GMT)"
+        },
+        {
+            "id": 2,
+            "name":"Nora Ibrahim",
+            "number": "059976",
+            "date_of_birth": "2000-11-12",
+            "genders": "Female",
+            "date_of_join": "Wed Mar 12 2019 23:52:35 GMT+0000 (GMT)"
+        },
+        {
+            "id": 3,
+            "name":"Ibrahim Mohammed",
+            "number": "059996",
+            "date_of_birth": "1989-10-12",
+            "genders": "Male",
+            "date_of_join": "Wed Nov 5 2022 23:52:35 GMT+0000 (GMT)"
+        },
+        {
+            "id": 4,
+            "name":"Saad Khalid",
+            "number": "059996",
+            "date_of_birth": "1994-10-12",
+            "genders": "Male",
+            "date_of_join": "Sun Oct 3 2016 23:52:35 GMT+0000 (GMT)"
+        },
+        {
+            "id": 5,
+            "name":"Ahmed Mohammed",
+            "number": "059996",
+            "date_of_birth": "1986-12-12",
+            "genders": "Male",
+            "date_of_join": "Wed Oct 12 2022 23:52:35 GMT+0000 (GMT)"
+        },
+        {
+            "id": 6,
+            "name":"Salma Abdullah",
+            "number": "059996",
+            "date_of_birth": "1996-01-29",
+            "genders": "Female",
+            "date_of_join": "Wed Jan 12 2022 23:52:35 GMT+0000 (GMT)"
+        },
+        {
+            "id": 7,
+            "name":"Sara Ibrahim",
+            "number": "059976",
+            "date_of_birth": "2002-05-14",
+            "genders": "Female",
+            "date_of_join": "Tue Jul 12 2021 23:52:35 GMT+0000 (GMT)"
+        },
+        {
+            "id": 8,
+            "name":"Naser Omar",
+            "number": "059996",
+            "date_of_birth": "1989-10-12",
+            "genders": "Male",
+            "date_of_join": "Wed Jun 5 2002 23:52:35 GMT+0000 (GMT)"
+        },
+        {
+            "id": 9,
+            "name":"Khalid Nawaf",
+            "number": "059996",
+            "date_of_birth": "1984-10-12",
+            "genders": "Male",
+            "date_of_join": "Sun Oct 3 2009 23:52:35 GMT+0000 (GMT)"
+        },
+        {
+            "id": 10,
+            "name":"Rakan Ahmed",
+            "number": "059996",
+            "date_of_birth": "1986-12-12",
+            "genders": "Male",
+            "date_of_join": "Wed Apr 12 2012 23:52:35 GMT+0000 (GMT)"
+        }
+    ]
+}
+

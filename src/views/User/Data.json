@@ -1,0 +1,31 @@
+{
+    "headers": [
+        {
+        "text": "ID num",
+        "align": "start",
+        "sortable": false,
+        "value": "id"
+        },
+        { "text": "Name", "value": "name" },
+        { "text": "User Name", "value": "username" },
+        { "text": "Password", "value": "password" },
+        { "text": "User Type", "value": "user_type" },
+        { "text": "Update", "value": "update", "sortable": false  }
+    ],
+    "data": [
+        {
+            "id": 1,
+            "name": "Nora Ibrahim",
+            "username": "Nora@gamil.com",
+            "password": "12@Rty",
+            "user_type": "Admin"
+        },
+        {
+            "id": 2,
+            "name": "Saad Khalid",
+            "username": "Saad@gamil.com",
+            "password": "14@Sty",
+            "user_type": "employee"
+        }
+    ]
+}

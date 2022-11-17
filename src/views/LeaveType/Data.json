@@ -1,0 +1,30 @@
+{
+    "headers": [
+        {
+        "text": "ID",
+        "align": "start",
+        "sortable": false,
+        "value": "id"
+        },
+        { "text": "Leave Type", "value": "leave_type" },
+        { "text": "Update", "value": "update", "sortable": false  }
+    ],
+    "data": [
+        {
+            "id": 1,
+            "leave_type":"Annual Leave"
+        },
+        {
+            "id": 2,
+            "leave_type":"Privilege Leave"
+        },
+        {
+            "id": 3,
+            "leave_type":"Sick Leave"
+        },
+        {
+            "id": 4,
+            "leave_type":"Maternity Leave"
+        }
+    ]
+}

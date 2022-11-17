@@ -1,0 +1,47 @@
+{
+    "headers": [
+        {
+        "text": "ID",
+        "align": "start",
+        "sortable": false,
+        "value": "id"
+        },
+        { "text": "Employee ID", "value": "employee_id" },
+        { "text": "Leave Type Id", "value": "leave_type_id" },
+        { "text": "Balance", "value": "leave_balance" },
+        { "text": "Update", "value": "update", "sortable": false  }
+    ],
+    "data": [
+        {
+            "id": 1,
+            "employee_id":1,
+            "leave_type_id": 3,
+            "leave_balance": "5"
+        },
+        {
+            "id": 2,
+            "employee_id":2,
+            "leave_type_id": 4,
+            "leave_balance": "3"
+        },
+        {
+            "id": 3,
+            "employee_id":3,
+            "leave_type_id": 3,
+            "leave_balance": "3"
+        },
+        {
+            "id": 4,
+            "employee_id":4,
+            "leave_type_id": 3,
+            "balance": "5"
+        },
+        {
+            "id": 5,
+            "employee_id":5,
+            "leave_type_id": 2,
+            "balance": "2"
+        }
+    ]
+}
+

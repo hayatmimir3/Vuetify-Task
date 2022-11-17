@@ -1,0 +1,9 @@
+[
+    {
+        "type": "SelectInput",
+        "label": "Leave Type",
+        "select": ["Annual Leave", "Sick Leave", "Privilege Leave", "Maternity Leave"],
+        "value": "",
+        "data": "leave_type"
+    }
+]
